@@ -1,0 +1,1 @@
+# hobi-template-class5.2
